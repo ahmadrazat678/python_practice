@@ -1,0 +1,10 @@
+3d dimesion
+indexing
+slicing
+1D array convert 2D array
+2D se element ko acces krna
+2D ke kissi aik element ko replace krna
+1D ko 3D main convert krna (3d main 5by 7 hone chiaye)
+3D convert 1D
+
+-----------
