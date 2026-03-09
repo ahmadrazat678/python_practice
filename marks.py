@@ -1,0 +1,10 @@
+marks = [ ]
+f1=int(input("Enter Marks of f1 : "))
+marks.append(f1)
+f2=int(input("Enter Marks of f2 : "))
+marks.append(f2)
+f3=int(input("Enter Marks of f3 : "))
+marks.append(f3)
+f4=int(input("Enter Marks of f4 : "))
+marks.append(f4)
+print(marks)
